@@ -60,7 +60,7 @@ Akkamahadevi Women’s University — CGPA: 8.5/10
 ### *📌 Awesome Chocolates Analysis — SQL & Power BI*
 Performed end-to-end sales analysis using SQL for cleaning & transformation and built a Power BI dashboard with KPIs such as Total Sales, Growth %, and Geo-wise contribution. Identified a 21.86% decline, 78% recovery, and regional performance insights.
 
----
+--- 
 
 ### *📌 Customer Churn Analysis — SQL & Power BI*
 Analysed customer churn using SQL-based segmentation and built an interactive Power BI dashboard. Identified high-risk customer groups including the 44.22% churn segment, and found female customers churn more compared to males.
