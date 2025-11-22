@@ -1,11 +1,11 @@
 # uzmanahid.github.io
-# Uzma Nahid — Data Analyst | Clinical Data Management | Chemistry
+# Uzma Nahid — Data Analyst | Clinical Data Management
 ---
 
 ## 🌟 About Me
 Chemistry brain turned Data Wizard — blending scientific precision with analytical problem-solving. With hands-on experience at Biocon in Operational Quality, I bring strong skills in audits, documentation, clinical data validation, and process improvement.
 
-I specialize in transforming messy datasets into clear insights using *SQL, Power BI, Excel, Python, and SAS, with deep knowledge of clinical trial guidelines such as **ICH-GCP* and *ALCOA+*. Curious, detail-oriented, and driven to support data-backed decisions.
+I specialize in transforming messy datasets into clear insights using SQL, Power BI, Excel, Python, and SAS, with deep knowledge of clinical trial guidelines such as **ICH-GCP* and *ALCOA+*. Curious, detail-oriented, and driven to support data-backed decisions.
 
 ---
 
