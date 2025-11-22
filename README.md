@@ -81,7 +81,3 @@ Developed an interactive Excel dashboard tracking 2,400+ orders, $640K revenue, 
 
 ---
 
-### *📌 Customer Service Calls Performance Dashboard — Excel*
-Built a KPI-driven dashboard analysing 1,000 calls, customer satisfaction stats (870 happy calls), revenue (₹96K), and agent performance using pivot tables and slicers.
-
----
