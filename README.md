@@ -63,7 +63,7 @@ Performed end-to-end sales analysis using SQL for cleaning & transformation and 
 ---
 
 ### *📌 Customer Churn Analysis — SQL & Power BI*
-Analysed customer churn using SQL-based segmentation and built an interactive Power BI dashboard. Identified high-risk customer groups including the *44.22% churn segment, and found female customers churn more compared to males.
+Analysed customer churn using SQL-based segmentation and built an interactive Power BI dashboard. Identified high-risk customer groups including the 44.22% churn segment, and found female customers churn more compared to males.
 
 ---
 
