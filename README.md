@@ -58,12 +58,12 @@ Akkamahadevi Women’s University — CGPA: 8.5/10
 ## 📂 Projects
 
 ### *📌 Awesome Chocolates Analysis — SQL & Power BI*
-Performed end-to-end sales analysis using SQL for cleaning & transformation and built a Power BI dashboard with KPIs such as Total Sales, Growth %, and Geo-wise contribution. Identified a *21.86% decline, **78% recovery*, and regional performance insights.
+Performed end-to-end sales analysis using SQL for cleaning & transformation and built a Power BI dashboard with KPIs such as Total Sales, Growth %, and Geo-wise contribution. Identified a 21.86% decline, 78% recovery, and regional performance insights.
 
 ---
 
 ### *📌 Customer Churn Analysis — SQL & Power BI*
-Analysed customer churn using SQL-based segmentation and built an interactive Power BI dashboard. Identified high-risk customer groups including the *44.22% churn segment, and found **female customers churn more* compared to males.
+Analysed customer churn using SQL-based segmentation and built an interactive Power BI dashboard. Identified high-risk customer groups including the *44.22% churn segment, and found female customers churn more compared to males.
 
 ---
 
@@ -73,11 +73,11 @@ Designed a dynamic Excel dashboard to analyse sales, product performance, and pr
 ---
 
 ### *📌 VIVA CALIF Clothing Sales Dashboard — Excel*
-Developed an interactive Excel dashboard tracking *2,400+ orders, *$640K revenue**, customer behaviour patterns, gender-based purchase trends, and weekly sales insights.
+Developed an interactive Excel dashboard tracking 2,400+ orders, $640K revenue, customer behaviour patterns, gender-based purchase trends, and weekly sales insights.
 
 ---
 
 ### *📌 Customer Service Calls Performance Dashboard — Excel*
-Built a KPI-driven dashboard analysing *1,000 calls, customer satisfaction stats (870 happy calls*), revenue (₹96K), and agent performance using pivot tables and slicers.
+Built a KPI-driven dashboard analysing 1,000 calls, customer satisfaction stats (870 happy calls), revenue (₹96K), and agent performance using pivot tables and slicers.
 
 ---
