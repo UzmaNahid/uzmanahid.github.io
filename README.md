@@ -76,8 +76,8 @@ Designed a dynamic Excel dashboard to analyse sales, product performance, and pr
 ---
 
 ### *📌 VIVA CALIF Clothing Sales Dashboard — Excel*
-Developed an interactive Excel dashboard tracking 2,400+ orders, $640K revenue, customer behaviour patterns, gender-based purchase trends, and weekly sales insights.
- <img width="551" height="383" alt="e-Commerce Excel Dashboard" src="https://github.com/user-attachments/assets/95cec89e-5105-42ab-be96-b757259ee87d" />
+Developed an interactive Excel dashboard tracking 2,400+ orders, $640K revenue, customer behaviour patterns, gender-based purchase trends and weekly sales insights.
+   <img width="551" height="383" alt="e-Commerce Excel Dashboard" src="https://github.com/user-attachments/assets/95cec89e-5105-42ab-be96-b757259ee87d" />
 
 ---
 
